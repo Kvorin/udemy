@@ -1,0 +1,88 @@
+const tutorials = [
+  {
+    id: 1,
+    name: "Java",
+    desc: "Java Begginner Crash Course",
+    img: "https://m.media-amazon.com/images/I/81HLxaMBCJL._AC_UY327_FMwebp_QL65_.jpg",
+    path: "java",
+  },
+  {
+    id: 2,
+    name: "HTML",
+    desc: "HTML Begginner Crash Course",
+    img: "https://m.media-amazon.com/images/I/81HLxaMBCJL._AC_UY327_FMwebp_QL65_.jpg",
+    path: "html",
+  },
+  {
+    id: 3,
+    name: "CSS",
+    desc: "CSS Begginner Crash Course",
+    img: "https://m.media-amazon.com/images/I/81HLxaMBCJL._AC_UY327_FMwebp_QL65_.jpg",
+    path: "css",
+  },
+  {
+    id: 4,
+    name: "React JS",
+    desc: "React JS Begginner Crash Course",
+    img: "https://m.media-amazon.com/images/I/81HLxaMBCJL._AC_UY327_FMwebp_QL65_.jpg",
+    path: "react",
+  },
+  {
+    id: 5,
+    name: "Node",
+    desc: "React JS Begginner Crash Course",
+    img: "https://m.media-amazon.com/images/I/81HLxaMBCJL._AC_UY327_FMwebp_QL65_.jpg",
+    path: "node",
+  },
+  {
+    id: 6,
+    name: "Angular",
+    desc: "React JS Begginner Crash Course",
+    img: "https://m.media-amazon.com/images/I/81HLxaMBCJL._AC_UY327_FMwebp_QL65_.jpg",
+    path: "angular",
+  },
+  {
+    id: 7,
+    name: "Vuejs",
+    desc: "React JS Begginner Crash Course",
+    img: "https://m.media-amazon.com/images/I/81HLxaMBCJL._AC_UY327_FMwebp_QL65_.jpg",
+    path: "vue",
+  },
+  {
+    id: 8,
+    name: "Express",
+    desc: "React JS Begginner Crash Course",
+    img: "https://m.media-amazon.com/images/I/81HLxaMBCJL._AC_UY327_FMwebp_QL65_.jpg",
+    path: "express",
+  },
+  {
+    id: 9,
+    name: "PHP",
+    desc: "React JS Begginner Crash Course",
+    img: "https://m.media-amazon.com/images/I/81HLxaMBCJL._AC_UY327_FMwebp_QL65_.jpg",
+    path: "php",
+  },
+  {
+    id: 10,
+    name: "MySQL",
+    desc: "React JS Begginner Crash Course",
+    img: "https://m.media-amazon.com/images/I/81HLxaMBCJL._AC_UY327_FMwebp_QL65_.jpg",
+    path: "mysql",
+  },
+  {
+    id: 11,
+    name: "Mongo DB",
+    desc: "React JS Begginner Crash Course",
+    img: "https://m.media-amazon.com/images/I/81HLxaMBCJL._AC_UY327_FMwebp_QL65_.jpg",
+    path: "mongo",
+  },
+  {
+    id: 12,
+    name: "Laravel",
+    desc: "React JS Begginner Crash Course",
+    img: "https://m.media-amazon.com/images/I/81HLxaMBCJL._AC_UY327_FMwebp_QL65_.jpg",
+    path: "laravel",
+  },
+];
+
+export default tutorials;
